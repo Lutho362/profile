@@ -1,0 +1,41 @@
+.links{
+    display: flex;
+    margin-top: 15px;
+    
+    text-indent: 50px;
+}
+.links a{
+    
+    text-decoration: none;
+    color: aliceblue;
+}
+.another a{
+    
+    font-size: smaller;
+    color: aliceblue;
+}
+.another{
+    margin-top: 40px;
+    margin-left: 137px;
+}
+.image img{
+    height: 500px;
+    width: 550px;
+    border-radius: 150%;
+}
+.image{
+    margin-left: 140px;
+}
+.anotherbutton{
+    height: 30px;
+    width: 110px;
+    border-radius: 20px;
+    border: none;
+    margin-left: 50px;
+    background-color: white;
+
+}
+.another a{
+    text-decoration: none;
+    color: black;
+}
